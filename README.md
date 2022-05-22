@@ -2,7 +2,7 @@
 [![MasterHead](https://github.com/arnauddupuis/arnauddupuis/raw/main/github-banner.png)](https://github.com/arnauddupuis)
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- I use to code a lot of stuff 👴
+- I used to code a lot of stuff 👴
 - Nowadays, I'm mainly focusing on the pygamelib Python library 🐍 for my FOSS work.
 - I'm the founder and CTO of [Genymotion](https://www.genymotion.com)
 - I love Astronomy and I'm a member of the [San Francisco Amateur Astronomers](https://sfaa-astronomy.org/) 🔭
