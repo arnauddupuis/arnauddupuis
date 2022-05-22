@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/arnauddupuis/arnauddupuis/raw/main/github-banner.png)](https://github.com/arnauddupuis)
+[![MasterHead](https://github.com/arnauddupuis/arnauddupuis/raw/main/banner.png)](https://github.com/arnauddupuis)
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - I used to code a lot of stuff 👴
