@@ -10,7 +10,7 @@
 [![Arnaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnauddupuis&show_icons=true&theme=synthwave&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnauddupuis&theme=synthwave&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnauddupuis&rank=-C,-B&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnauddupuis&show_icons=true&theme=synthwave&hide=contribs" />
+
 
 
 ## 🛠️ Languages and Tools:
