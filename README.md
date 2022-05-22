@@ -1,3 +1,5 @@
+
+[![MasterHead](https://github.com/arnauddupuis/arnauddupuis/raw/main/github-banner.png)](https://github.com/arnauddupuis)
 ### Hi there 👋
 [![Arnaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnauddupuis&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnauddupuis&rank=-C,-B&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
