@@ -7,6 +7,7 @@
 - I'm the founder and CTO of [Genymotion](https://www.genymotion.com)
 - I love Astronomy and I'm a member of the [San Francisco Amateur Astronomers](https://sfaa-astronomy.org/) 🔭
 - I also love Scuba Diving and I mostly dive in norhtern California (in the cold Pacific Ocean) 🤿
+- I'm not a big social network user, but you can find me on Mastodon on the [FLOSS.social](https://floss.social) instance: <a rel="me" href="https://floss.social/@8bitscoding">Mastodon</a>
 
 ## 📊 Some funny stats
 
